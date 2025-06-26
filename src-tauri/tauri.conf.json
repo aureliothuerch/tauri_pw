@@ -2,7 +2,7 @@
   "$schema": "../node_modules/@tauri-apps/cli/config.schema.json",
   "productName": "tauri2-svelte5-shadcn",
   "version": "2.0.0",
-  "identifier": "com.tauri2-svelte5-shadcn.dev",
+  "identifier": "com.tauri2-tauri_pw",
   "build": {
     "frontendDist": "../dist",
     "devUrl": "http://localhost:1420",
